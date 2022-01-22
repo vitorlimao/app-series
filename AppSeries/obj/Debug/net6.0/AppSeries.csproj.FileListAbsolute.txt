@@ -1,0 +1,15 @@
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/bin/Debug/net6.0/AppSeries
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/bin/Debug/net6.0/AppSeries.deps.json
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/bin/Debug/net6.0/AppSeries.runtimeconfig.json
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/bin/Debug/net6.0/AppSeries.dll
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/bin/Debug/net6.0/ref/AppSeries.dll
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/bin/Debug/net6.0/AppSeries.pdb
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/AppSeries.csproj.AssemblyReference.cache
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/AppSeries.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/AppSeries.AssemblyInfoInputs.cache
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/AppSeries.AssemblyInfo.cs
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/AppSeries.csproj.CoreCompileInputs.cache
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/AppSeries.dll
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/ref/AppSeries.dll
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/AppSeries.pdb
+/home/vitor/Documentos/programacao/C#/AppSeries/AppSeries/obj/Debug/net6.0/AppSeries.genruntimeconfig.cache

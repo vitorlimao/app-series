@@ -1,3 +1,4 @@
+using System.Collections;
 using AppSeries.Interface;
 
 namespace AppSeries.Classes
@@ -34,7 +35,16 @@ namespace AppSeries.Classes
 
         public Serie RetornaPorId(int id)
         {
-            return listaSerie[id];
+            if (listaSerie.Count()>id){
+
+                return listaSerie [id];
+            }
+            else
+            {
+                return null; 
+            }
+           
+            
         }
     }
 }
